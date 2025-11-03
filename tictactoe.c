@@ -1,6 +1,5 @@
 /*
  * Scalable Tic Tac Toe Game in C
- * Author: Abdelrahman Khalid
  * Date: July 2025
  */
 
